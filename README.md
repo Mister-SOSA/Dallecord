@@ -5,7 +5,7 @@
 - [PyCord](https://docs.pycord.dev/en/stable/)
 
 ### Loading the Cog
-To install this cog, place it in the directory that your bot loads other cogs from.
+To install this cog, place `dallecord.py` in the directory that your bot loads other cogs from.
 This directory should be defined in your main script.
 In most cases, the directory is simply `./cogs/`
 
