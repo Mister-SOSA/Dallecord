@@ -6,7 +6,7 @@ import discord
 from dalle2 import Dalle2
 from discord.ext import commands, bridge
 
-dalle = Dalle2('sess-m42oqiko2EVWkxWPR5jmf2H96CThMkDKA2uAMghZ') # Replace with your session key
+dalle = Dalle2('sess-xxxxxxxxxxxxxxxxxxxxxxxxxxxx') # Replace with your session key
 
 cmd_metadata = {
     'name': 'dalle2',
